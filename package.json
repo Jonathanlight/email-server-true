@@ -1,6 +1,6 @@
 {
     "name": "@jonathankablan/email-server-true",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "> Check if the mail server is correct or exists",
     "main": "index.js",
     "scripts": {
