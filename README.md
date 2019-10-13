@@ -39,13 +39,12 @@ email('johndoe@gmail.com') // return 'true' if email match
 "wanadoo.fr"
 
 // you can also add your domain list
-var listDomaine = [
+var newDomain = [
     'discord.com',
     'enterprise.net'
 ];
 
-email('johndoe@discord.com', listDomaine) // return true
-
+email('johndoe@discord.com', newDomain) // return true
 ```
 
 ## Resources
