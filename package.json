@@ -18,5 +18,8 @@
     "homepage": "https://github.com/jonathankablan/email-server-true#readme",
     "devDependencies": {
         "ava": "^2.4.0"
+    },
+    "dependencies": {
+        "file-system": "^2.2.2"
     }
 }
